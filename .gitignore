@@ -1,0 +1,6 @@
+.graptos-backups/
+.graptos-save-*.tmp
+.graptos-latex-build/
+build/
+.graptos/
+.graptos-task.ini
