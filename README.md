@@ -6,15 +6,14 @@ This is an experiment and not intened for use by any app. My aim is to capture r
 Although I started this when I had Xperia 10 iii, I had another go at it after [ric9k](https://forum.sailfishos.org/t/jolla-phone-camera-too-many-details-are-lost/32717)'s post. 
 
 Example:
-    Camera2 API
-    ![Camera2 API](https://i.snipboard.io/fUdqWE.jpg)
-    This is even compressed further via snipboard and converted to jpg. The original is a 12mb png. 
+Camera2 API
+![Camera2 API](https://i.snipboard.io/fUdqWE.jpg)
+This is even compressed further via snipboard and converted to jpg. The original is a 12mb png. \
     
-    ***
-        
-    Stock App
-    
-    ![Camera2 API](https://i.snipboard.io/So5AQG.jpg)
+***
+
+Stock App
+![Camera2 API](https://i.snipboard.io/So5AQG.jpg)
 
 
 The project has two pieces:
