@@ -10,9 +10,10 @@ Example:
     ![Camera2 API](https://i.snipboard.io/fUdqWE.jpg)
     This is even compressed further via snipboard and converted to jpg. The original is a 12mb png. 
     
-    ---
+    ***
         
     Stock App
+    
     ![Camera2 API](https://i.snipboard.io/So5AQG.jpg)
 
 
