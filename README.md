@@ -8,8 +8,10 @@ Although I started this when I had Xperia 10 iii, I had another go at it after [
 Example:
     Camera2 API
     ![Camera2 API](https://i.snipboard.io/fUdqWE.jpg)
-    This is even compressed further via snipboard and converted to jpg. The original is a 12mb png.
+    This is even compressed further via snipboard and converted to jpg. The original is a 12mb png. 
+    
     ---
+        
     Stock App
     ![Camera2 API](https://i.snipboard.io/So5AQG.jpg)
 
