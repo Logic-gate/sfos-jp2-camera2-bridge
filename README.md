@@ -75,7 +75,7 @@ devel-su chmod 755 /usr/libexec/droid-hybris/system/lib64/libsfoscamera2.so
 
 Example probe:
     
-    ```json
+```json
     {
   "status": "ok",
   "bridge_version": "0.3.0",
@@ -212,8 +212,7 @@ Example probe:
     }
   ]
 }
-    
-    ```
+```
 
 ## Capture one RAW16 test frame
 
@@ -252,7 +251,7 @@ Use `capture-camera2-image.sh` rather than `sfos-camera2-probe --capture` for mo
 
 Full list of options:
     
-    ```sh
+```sh
     [defaultuser@JollaPhone2026 ~]$ ./capture-camera2-image.sh --help
 Usage: ./capture-camera2-image.sh [OPTIONS]
 
@@ -293,7 +292,7 @@ Environment defaults:
   CAMERA_FOCUS_DISTANCE, CAMERA_FOCUS_TIMEOUT, CAMERA_FOCUS_FAILURE,
   OUTPUT_FORMAT, RAW_EXPOSURE, JPEG_QUALITY, JPEG_SAMPLING,
   PNG_COMPRESSION, SFOS_CAMERA2_PROBE, and SFOS_RAW16_IMAGE_CONVERTER
-```
+  ```
 
 
 
