@@ -1,3 +1,8 @@
+The project haa been incorporated into [RWAfish](https://github.com/Logic-gate/RAWfish)
+
+
+
+
 # Sailfish Jolla Phone 2 Camera2 Brdige
 
 Disclaimer: Portions of this work, particularly the Bayer Color Filter Array (CFA) conversion(which I couldn't wrap my head around) and debugging is AI assisted.
