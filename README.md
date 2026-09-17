@@ -1,4 +1,4 @@
-The project haa been incorporated into [RWAfish](https://github.com/Logic-gate/RAWfish)
+The project has been incorporated into [RWAfish](https://github.com/Logic-gate/RAWfish)
 
 
 
